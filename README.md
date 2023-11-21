@@ -4,7 +4,6 @@ What are the busiest/least days and hours of the week with the most/fewest order
 Understand if there are times of the day when people spend the most to advertise types of products during these times
 Find a grouping of price ranges of the various products to help markeing and sales
 Determine if there are certain types of products that are more popular
-![Instacart folder structure](https://github.com/Rich-Brad/python-instacart-analysis/assets/150104364/dd0789b5-444b-4e28-80c6-9b7a6cf5e253)
 ![IC title page](https://github.com/Rich-Brad/python-instacart-analysis/assets/150104364/e9b18aea-0dbd-4c1c-a225-e7b6a0d76c06)
 ![IC population flow](https://github.com/Rich-Brad/python-instacart-analysis/assets/150104364/19968e30-098a-4a35-820c-8aff7bfa9794)
 ![IC consistency checks](https://github.com/Rich-Brad/python-instacart-analysis/assets/150104364/35a11a93-ef4e-4bca-b7aa-81b882549d3c)
